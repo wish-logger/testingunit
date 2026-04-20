@@ -1,0 +1,22 @@
+{
+    "Unknown": "Unknown",
+    "Seconds": "Second",
+    "Minutes": "Minute",
+    "Hours": "Hour",
+    "Days": "Day",
+    "ThreadDeletedTitle": "{emoji} Thread Deleted",
+    "ThreadDeletedBy": "**{threadname}** was deleted by {moderator}",
+    "Channel": "Channel",
+    "TodayAt": "Today at",
+    "ThreadCreatedTitle": "{emoji} Thread Created",
+    "ThreadCreatedBy": "**{threadname}** was created by {moderator}",
+    "ThreadModifiedTitle": "{emoji} Thread Updated",
+    "ThreadModifiedBy": "**{threadname}** was modified by {moderator}",
+    "Name": "Name",
+    "Archived": "Archived",
+    "Locked": "Locked",
+    "Slowmode": "Slowmode",
+    "AutomaticArchive": "Automatic Archive",
+    "Enabled": "Enabled",
+    "Disabled": "Disabled"
+}

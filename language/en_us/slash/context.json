@@ -1,0 +1,6 @@
+{
+    "UnableToFetchMessage": "Unable to fetch the message.",
+    "NoReactions": "This message has no reactions.",
+    "AnErrorOccurredWhileRetrievingTheReactions": "An error occurred while retrieving the reactions.",
+    "NoReactionsFound": "No reactions found."
+}

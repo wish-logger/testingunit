@@ -1,0 +1,25 @@
+{
+    "InviteCreatedTitle": "{emoji} Invite Created",
+    "InviteCreated": "{creator} created an invite {inviteCode} for {targetString}",
+    "Channel": "Channel",
+    "Stage": "Stage",
+    "Event": "Event",
+    "UnknownChannel": "Unknown Channel",
+    "Unlimited": "Unlimited",
+    "Never": "Never",
+    "Yes": "Yes",
+    "No": "No",
+    "MaxUses": "Max Uses",
+    "Expires": "Expires",
+    "Temporary": "Temporary Membership",
+    "Invite": "Invite",
+    "For": "For",
+    "Was": "Was",
+    "Deleted": "Deleted",
+    "InviteDeletedTitle": "{emoji} Invite Deleted",
+    "InviteDeleted": "{executor} deleted invite {inviteCode} for {targetString}",
+    "InviteDeletedUnknown": "{executor} deleted invite {inviteCode} for {targetString}",
+    "TodayAt": "Today at",
+    "Unknown": "Unknown"
+
+}

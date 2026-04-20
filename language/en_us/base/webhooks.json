@@ -1,0 +1,11 @@
+{
+    "WebhookCreatedTitle": "{emoji} Webhook Created",
+    "WebhookDeletedTitle": "{emoji} Webhook Deleted",
+    "WebhookUpdatedTitle": "{emoji} Webhook Updated",
+    "WebhookCreated": "{creator} created a webhook {webhookName} in {channel}",
+    "WebhookDeleted": "{executor} deleted the webhook {webhookName}",
+    "WebhookUpdated": "{executor} updated the webhook {webhookName}",
+    "Name": "Name",
+    "AvatarUpdated": "Avatar Updated",
+    "Unknown": "Unknown"
+}

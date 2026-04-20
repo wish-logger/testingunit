@@ -1,0 +1,17 @@
+{
+    "TodayAt": "Today at",
+    "Unknown": "Unknown",
+    "RelatedEmoji": "Related Emoji",
+    "SoundBoardSoundAdded": "{emoji} Soundboard Sound Added",
+    "SoundBoardSoundRemoved": "{emoji} Soundboard Sound Removed",
+    "SoundBoardSoundUpdated": "{emoji} Soundboard Sound Updated",
+    "SoundAdded": "Soundboard sound {sound} with {volume} volume was added by {moderator}",
+    "SoundAddedWithoutModerator": "Soundboard sound {sound} with {volume} volume was added",
+    "SoundRemoved": "Soundboard sound {sound} was removed by {moderator}",
+    "SoundRemovedWithoutModerator": "Soundboard sound {sound} was removed",
+    "UpdatedSound": "Soundboard sound {sound} was updated by {moderator}",
+    "SoundUpdatedWithoutModerator": "Soundboard sound {sound} was updated",
+    "Name": "Name",
+    "Volume": "Volume",
+    "Emoji": "Emoji"
+}

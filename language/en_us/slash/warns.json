@@ -1,0 +1,12 @@
+{
+    "PermissionDenied": "<emoji> You do not have permission to use this command.",
+    "NoMatchingFoundError": "<emoji> No matching found.",
+    "WarnTitle": "<emoji> Member Warned",
+    "WarnChannelNotSetTitle": "<emoji> Warn Channel Not Set",
+    "WarningsFor": "Warnings for",
+    "WarnDeletedTitle": "<emoji> Member Warning Deleted",
+    "ChangeWarnTitle": "<emoji> Member Warning Changed",
+    "TransferWarnTitle": "<emoji> Member Warning Transferred",
+    "SpecUserOrCaseNotFoundErr": "Special user or case not found.",
+    "WarnsFor": "Warns for"
+}
